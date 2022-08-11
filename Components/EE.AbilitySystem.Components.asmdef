@@ -1,0 +1,20 @@
+{
+    "name": "EE.AbilitySystem.Components",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b352106f17b95434abb776c9abaa348d",
+        "GUID:34c41e7f85c5ccb40bf6f2d5c830f445"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "EE.AbilitySystem.dll",
+        "Sirenix.OdinInspector.Attributes.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

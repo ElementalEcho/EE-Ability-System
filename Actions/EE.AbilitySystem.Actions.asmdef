@@ -1,0 +1,20 @@
+{
+    "name": "EE.AbilitySystem.Actions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b352106f17b95434abb776c9abaa348d",
+        "GUID:34c41e7f85c5ccb40bf6f2d5c830f445",
+        "GUID:deb91262c7f65a94fa9e68ac83813307"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "EE.AbilitySystem.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
